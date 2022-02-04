@@ -29,3 +29,10 @@ ppmtool-api/.settings
 ppmtool-api/.classpath
 ppmtool-api/.gitignore
 ppmtool-api/.project
+
+# ppmtool-client
+ppmtool-client/.editorconfig
+ppmtool-client/.gitignore
+ppmtool-client/.vscode
+ppmtool-client/node_modules
+ppmtool-client/.browserslistrc
